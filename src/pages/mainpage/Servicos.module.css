@@ -1,0 +1,114 @@
+.estilo {
+    position: absolute;
+    width: 100%;
+    top: 200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 100px;
+}
+
+
+.lote {
+    position: relative;
+    display: inline-block;
+}
+
+.lote p {
+    position: absolute;
+    bottom: 14px;
+    left: 10px;
+    right: 10px;
+    height: 110px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, .5);
+    color: #4e5152;
+    padding: 10px;
+    margin: 0;
+}
+
+.calcada {
+    position: relative;
+    display: inline-block;
+}
+
+.calcada p {
+    position: absolute;
+    bottom: 14px;
+    left: 10px;
+    right: 10px;
+    height: 110px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, .5);
+    color: #4e5152;
+    padding: 10px;
+    margin: 0;
+}
+
+.iluminacao {
+    position: relative;
+    display: inline-block;
+  }
+  
+.iluminacao p{
+    position: absolute;
+    bottom: 14px;
+    left: 10px;
+    right: 10px;
+    height: 110px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, .5);
+    color: #4e5152;   
+    padding: 10px;
+    margin: 0;
+}
+
+.drenagem p{
+    position: absolute;
+    bottom: 14px;
+    left: 10px;
+    right: 10px;
+    height: 110px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, .5);
+    color: #4e5152;   
+    padding: 10px;
+    margin: 0;
+}
+
+.drenagem {
+    position: relative;
+    display: inline-block;
+}
+
+.IL1 {
+    color: #203F6D;
+    font-size: 20px;
+}
+
+.pIP {
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+
+.estilo img {
+    height: 450px;
+    width: 340px;
+    margin-top: 70px;
+}
+
+.estilo h1 {
+    position: absolute;
+    top: 0;
+    margin-top: -30px;
+    color: #203F6D;
+    font-size: 50px;
+    padding-left: 0;
+    margin-left: 0;
+}

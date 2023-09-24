@@ -1,0 +1,32 @@
+.rodapé {
+    color: #4e5152;
+    padding: 20px 0;
+    width: 100%;
+    bottom: 0;
+    margin-top: 130%;
+  }
+
+.estilo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+.logo img {
+    height: 60px;
+    margin-right: 0;
+  }
+
+.info h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+
+.info p {
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 50px;
+  }

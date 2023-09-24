@@ -1,0 +1,40 @@
+.estilo{
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;   
+}
+
+.logo img {
+    height: 60px;
+}
+
+.logo {
+    padding: 16px;
+}
+
+.doc {
+    position: absolute;
+    top: 50%;
+    right: 230px;
+    background-color: transparent;
+    color: #203F6D;
+    border: 2px solid #203F6D;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transform: translateY(-50%);
+}
+.servico {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    background-color: transparent;
+    color: #203F6D;
+    border: 2px solid #203F6D;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transform: translateY(-50%);
+}

@@ -1,0 +1,17 @@
+
+.estilo {
+    position: absolute;
+    top: 120%;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.estilo h1 {
+    color: #203F6D;
+}
+
+.estilo p {
+    font-size: 30px;
+}
